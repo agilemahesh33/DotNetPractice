@@ -1,7 +1,14 @@
 ﻿using System.Diagnostics;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Multithreading
 {
+    /// <summary>
+    /// Example: Test1() Test2() and Test3() if at any cost Test1() is performing some action
+    /// Test2() and Test3() will be executed based on time sharing, and 
+    /// every thread will be given equal importance. 
+    /// Output of above program wont change! it is fixed every time we execute it.
+    /// </summary>
     internal class MultiThreadDemo2
     {
         static Stopwatch sw = new Stopwatch();
