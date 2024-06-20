@@ -1,0 +1,17 @@
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\bin\Debug\net8.0-windows\WindowsAppDemo.exe
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\bin\Debug\net8.0-windows\WindowsAppDemo.deps.json
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\bin\Debug\net8.0-windows\WindowsAppDemo.runtimeconfig.json
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\bin\Debug\net8.0-windows\WindowsAppDemo.dll
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\bin\Debug\net8.0-windows\WindowsAppDemo.pdb
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.Form1.resources
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.csproj.GenerateResource.cache
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.AssemblyInfoInputs.cache
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.AssemblyInfo.cs
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.csproj.CoreCompileInputs.cache
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.sourcelink.json
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.dll
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\refint\WindowsAppDemo.dll
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.pdb
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\WindowsAppDemo.genruntimeconfig.cache
+D:\Dot Net Core NIT\CSharp Practice\DotNet\WindowsFormsDemo\WindowsAppDemo\obj\Debug\net8.0-windows\ref\WindowsAppDemo.dll
