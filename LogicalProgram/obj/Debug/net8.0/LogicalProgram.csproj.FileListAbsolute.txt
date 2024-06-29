@@ -1,0 +1,15 @@
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\LogicalProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\LogicalProgram.AssemblyInfoInputs.cache
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\LogicalProgram.AssemblyInfo.cs
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\LogicalProgram.csproj.CoreCompileInputs.cache
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\LogicalProgram.sourcelink.json
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\bin\Debug\net8.0\LogicalProgram.exe
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\bin\Debug\net8.0\LogicalProgram.deps.json
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\bin\Debug\net8.0\LogicalProgram.runtimeconfig.json
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\bin\Debug\net8.0\LogicalProgram.dll
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\bin\Debug\net8.0\LogicalProgram.pdb
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\LogicalProgram.dll
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\refint\LogicalProgram.dll
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\LogicalProgram.pdb
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\LogicalProgram.genruntimeconfig.cache
+D:\Dot Net Core NIT\CSharp Practice\DotNet\LogicalProgram\obj\Debug\net8.0\ref\LogicalProgram.dll
