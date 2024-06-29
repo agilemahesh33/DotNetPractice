@@ -6,6 +6,7 @@
     /// if divisible by any one then not a prime number else prime number
     /// 2. Check the last digit of number(N) falls between 0 or 2 or 4 or 6 or 8 if it is then Not A Prime Number
     /// if doesn't fall between even single last digit then check total of digits is not divisible by half of number
+    /// *********************** Large number has some bugs
     /// </summary>
     internal class PrimeNumberTest
     {
