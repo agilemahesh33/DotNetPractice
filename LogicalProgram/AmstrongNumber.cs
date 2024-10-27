@@ -27,7 +27,12 @@ namespace LogicalProgram
     /// </summary>
     internal class AmstrongNumber
     {
-        public static void CheckAmstrong(int no)
+        /// <summary>
+        /// There are two different ways
+        /// </summary>
+        /// <param name="no"></param>
+        // Own logic
+        public static void CheckAmstrong1(int no)
         {
             int pow= countDigit(no);
             Console.WriteLine($"Total Digits : {pow}");
@@ -56,6 +61,22 @@ namespace LogicalProgram
             else 
                 Console.WriteLine($"{no} is NOT a amstrong number");
         }
+        //Copied logic
+        public static void CheckAmstrong2(int no)
+        {
+            int original = no;
+            int reminder, sum = 0;
+            while (no > 0)
+            {
+                reminder = no % 10;
+                sum = sum + (reminder * reminder * reminder);
+                no = no / 10;
+            }
+            if (original == sum)
+                Console.WriteLine($"{original} is a amstrong number");
+            else
+                Console.WriteLine($"{original} is NOT a amstrong number");
+        }
         static int MultiMbyN(int digit, int pow)
         {
             int temp = 1;
@@ -75,12 +96,13 @@ namespace LogicalProgram
             //return(int)Math.Floor(Math.Log10(n) + 1);
             //Case 3:
             return n.ToString().Length;
-
         }
         public static void Main(string[] args)
         {
             Console.WriteLine("Enter No to Check Amstrong or not");
-            CheckAmstrong(int.Parse(Console.ReadLine()));
+            CheckAmstrong1(int.Parse(Console.ReadLine()));
+            CheckAmstrong2(int.Parse(Console.ReadLine()));
         }
+
     }
 }
