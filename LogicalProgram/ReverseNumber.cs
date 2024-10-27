@@ -14,12 +14,13 @@ namespace LogicalProgram
     {
         public static void ReverseDigits(ref int num)
         {
-            int reminder = 0;
+            //int reminder = 0;
             int reverse =0;
             while (num != 0)
             {
-                reminder = num % 10;
-                reverse = reverse * 10 + reminder;
+                //reminder = num % 10;
+                //reverse = reverse * 10 + reminder;
+                reverse = reverse * 10 + num % 10;                
                 num = num / 10;
             }
             num = reverse;
