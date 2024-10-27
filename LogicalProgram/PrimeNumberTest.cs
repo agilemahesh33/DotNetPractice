@@ -3,7 +3,7 @@
 namespace LogicalProgram
 {
     /// <summary>
-    /// Prime number Test : Thsere are two ways
+    /// Prime number Test : There are two ways
     /// 1. Trial and error method : Dividing the number(N) till the half of the number(N) 
     /// if divisible by any one then not a prime number else prime number
     /// 2. Check the last digit of number(N) falls between 0 or 2 or 4 or 6 or 8 if it is then Not A Prime Number
