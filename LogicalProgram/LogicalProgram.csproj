@@ -5,7 +5,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>LogicalProgram.ReverseString</StartupObject>
+	  <StartupObject>LogicalProgram.OperatorsDemo</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataTypes.cs" />
+    <Compile Remove="OperatorsDemo.cs" />
+  </ItemGroup>
 
 </Project>
