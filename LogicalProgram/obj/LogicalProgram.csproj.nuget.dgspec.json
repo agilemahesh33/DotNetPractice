@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dot Net Core NIT\\CSharp Practice\\DotNet\\LogicalProgram\\LogicalProgram.csproj": {}
+    "D:\\Dot Net Core NIT\\CSharp Practice\\DotNetPractice\\LogicalProgram\\LogicalProgram.csproj": {}
   },
   "projects": {
-    "D:\\Dot Net Core NIT\\CSharp Practice\\DotNet\\LogicalProgram\\LogicalProgram.csproj": {
+    "D:\\Dot Net Core NIT\\CSharp Practice\\DotNetPractice\\LogicalProgram\\LogicalProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dot Net Core NIT\\CSharp Practice\\DotNet\\LogicalProgram\\LogicalProgram.csproj",
+        "projectUniqueName": "D:\\Dot Net Core NIT\\CSharp Practice\\DotNetPractice\\LogicalProgram\\LogicalProgram.csproj",
         "projectName": "LogicalProgram",
-        "projectPath": "D:\\Dot Net Core NIT\\CSharp Practice\\DotNet\\LogicalProgram\\LogicalProgram.csproj",
+        "projectPath": "D:\\Dot Net Core NIT\\CSharp Practice\\DotNetPractice\\LogicalProgram\\LogicalProgram.csproj",
         "packagesPath": "C:\\Users\\mrmah\\.nuget\\packages\\",
-        "outputPath": "D:\\Dot Net Core NIT\\CSharp Practice\\DotNet\\LogicalProgram\\obj\\",
+        "outputPath": "D:\\Dot Net Core NIT\\CSharp Practice\\DotNetPractice\\LogicalProgram\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mrmah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

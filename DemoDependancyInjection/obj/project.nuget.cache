@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "A+zyVI5X9uA=",
+  "dgSpecHash": "q+r/vu6zi5c=",
   "success": true,
-  "projectFilePath": "E:\\WEB DEVELOPER\\Dot Net Core\\Dot Net Temp\\DemoDependancyInjection\\DemoDependancyInjection.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Dot Net Core NIT\\CSharp Practice\\DotNetPractice\\DemoDependancyInjection\\DemoDependancyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrmah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\mrmah\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\mrmah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\mrmah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

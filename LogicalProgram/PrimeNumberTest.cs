@@ -1,4 +1,6 @@
-﻿namespace LogicalProgram
+﻿using System;
+
+namespace LogicalProgram
 {
     /// <summary>
     /// Prime number Test : Thsere are two ways
