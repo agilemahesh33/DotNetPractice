@@ -19,20 +19,23 @@ namespace OOPSProject
     ///     3. predicate
     ///         It is used when a method returns a boolean.
     /// </summary>
+    /// After Output using Singlecast comment delegates and
+    /// anonymous mothods and write using lambda expression
     /// 
-    public delegate double Delegate1(int x, float y, double z);
-    public delegate void Delegate2(int x, float y, double z);
-    public delegate bool Delegate3(string str);
+
+    //public delegate double Delegate1(int x, float y, double z);
+    //public delegate void Delegate2(int x, float y, double z);
+    //public delegate bool Delegate3(string str);
     internal class DelegatesPredefinedGeneric
     {
-        public static double AddNum1(int x, float y, double z)
-        {
-            return x + y + z;
-        }
-        public static void AddNum2(int x, float y, double z)
-        {
-            Console.WriteLine("Result : " + x + y + z);
-        }
+        //public static double AddNum1(int x, float y, double z)
+        //{
+        //    return x + y + z;
+        //}
+        //public static void AddNum2(int x, float y, double z)
+        //{
+        //    Console.WriteLine("Result : " + x + y + z);
+        //}
         public static bool checkLength(string str)
         {
             if(str.Length>5) {return true;}
@@ -40,16 +43,35 @@ namespace OOPSProject
         }
         public static void Main(string[] args)
         {
-            Delegate1 obj1 = new Delegate1(AddNum1);
-            double result = obj1.Invoke(123,45.67f,123.33);
-            Console.WriteLine(result);            
-
-            Delegate2 obj2 = new Delegate2(AddNum2);
+            Func<int, float, double, double> obj1 = (x, y, z) =>
+            {
+                return x + y + z;
+            };
+            double result = obj1.Invoke(123, 45.67f, 123.33);
+            Console.WriteLine(result);
+            Action<int, float, double> obj2 = (x, y, z) =>
+            {
+                Console.WriteLine("Result : " + x + y + z);
+            };            
             obj2.Invoke(123, 45.67f, 123.33);
-
-            Delegate3 obj3 = new Delegate3(checkLength);
+            Predicate<string> obj3 = (str) =>
+            {
+                if (str.Length > 5) { return true; }
+                else { return false; }
+            };
             bool b = obj3.Invoke("Mahesh");
             Console.WriteLine(b);
+
+            //Delegate1 obj1 = new Delegate1(AddNum1);
+            //double result = obj1.Invoke(123,45.67f,123.33);
+            //Console.WriteLine(result);            
+
+            //Delegate2 obj2 = new Delegate2(AddNum2);
+            //obj2.Invoke(123, 45.67f, 123.33);
+
+            //Delegate3 obj3 = new Delegate3(checkLength);
+            //bool b = obj3.Invoke("Mahesh");
+            //Console.WriteLine(b);
         }
     }            
 }
