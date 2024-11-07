@@ -10,7 +10,7 @@ namespace OOPSProject
     /// Anonymous method is an inline mehtod and it does not have a name
     /// i.e. it has only body
     /// We can define it using a delegate.
-    /// i.e. without vinding named method to delegate we can bind the body to the delegate
+    /// i.e. without binding named method to delegate we can bind the body to the delegate
     /// 
     /// </summary>
     /// 
