@@ -1,0 +1,70 @@
+﻿======================================================
+Beginner Level
+======================================================
+1. Check if a number is even or odd.
+2. Find the factorial of a given number.
+3. Check if a number is a palindrome.
+(e.g., 121 is a palindrome, 123 is not.)
+4. Generate the Fibonacci sequence up to n terms.
+5. Check if a number is prime.
+6. Find the sum of digits of a number.
+7. Reverse a given number. (e.g., 123 becomes 321.) ex -123 what are possible scenarios 
+8. Check if a number is an Armstrong number.
+(e.g., 153 = 1^3 + 5^3 + 3^3.)
+9. Count the number of digits in a number.
+10. Swap two numbers without using a third variable.
+
+======================================================
+Intermediate Level
+======================================================
+11. Check if a number is a perfect number.
+(e.g., 6 = 1+2+3.)
+12. Generate all prime numbers up to a given number n.
+13. Check if a number is a strong number.
+(e.g., 145 = 1!+4!+5!.)
+14. Find the greatest common divisor (GCD) and least common multiple (LCM) of two numbers.
+15. Print all prime factors of a number.
+16. Find the sum of all divisors of a number.
+17. Check if a number is a perfect square without using the square root function.
+18. Generate a Pascal’s triangle for n rows.
+19. Check if two numbers are amicable numbers.
+(e.g., 220 and 284.)
+20. Find the nth term of an arithmetic or geometric progression.
+
+======================================================
+Advanced Level
+======================================================
+21. Check if a number is a Kaprekar number.
+(e.g.,45: 45^2=2025 and 20+25=45.)
+
+22. Implement a program to generate happy numbers.
+(e.g., 19: 1^2+2^2 = 82 → 8^2 + 6^2 = 68→ ........→1)
+
+23. Solve the "Goldbach Conjecture" for an even number.
+(Every even number greater than 2 can be expressed as the sum of two primes.)
+24. Find the nth Catalan number.
+25. Generate the Collatz sequence for a given number.
+26. Find the digital root of a number.
+(e.g., 9875: 9+8+7+5=29, 2+9=11,1+1=2.)
+27. Check if a number is a circular prime.
+(e.g., 197: 197, 971, and 719 are all prime.)
+28. Find the next largest palindrome number greater than a given number.
+29. Check if a number is automorphic.
+(e.g., 5^2=25, 6^2=36, the number appears at the end of its square.)
+30. Count the number of trailing zeros in a factorial.
+======================================================
+Algorithmic Challenges
+======================================================
+31. Implement the Sieve of Eratosthenes to find all primes up to n.
+32. Check if a number is a super-prime.
+(A prime whose position in the list of primes is also prime.)
+33. Convert a number to its binary, octal, or hexadecimal representation.
+34. Find the nth term of a sequence defined by a custom recurrence relation.
+35. Solve modular arithmetic problems (e.g., modular exponentiation).
+36. Implement Euclid's algorithm for GCD using recursion.
+37. Find the largest product of digits in a given number.
+38. Calculate the sum of all prime numbers below a large value like 10 million.
+39. Implement a program to find twin primes.
+(e.g., (11, 13), (17, 19).)
+40. Check if a number is a Mersenne prime.
+(e.g.,(2^𝑝)−1 where 𝑝 is prime.)
