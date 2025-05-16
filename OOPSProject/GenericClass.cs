@@ -28,7 +28,7 @@ public class GenericClass<T>
 		return d1 / d2;
 	}		
 }
-public class Program
+public class ProgramGC
 {
 	public bool AreEqual<T>(T a,T b)
 	{

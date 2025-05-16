@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 //Output will change every time i.e. Sequence of adding values doesnot matter
-public class Program
+public class ProgramH
 {
 	public static void Main()
 	{

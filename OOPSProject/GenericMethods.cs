@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-public class Program
+public class ProgramGM
 {
 	public bool AreEqual<T>(T a,T b)
 	{
